@@ -6,5 +6,4 @@ import "fmt"
 // This is the best implemnetation of this program to ever exist.
 func main() {
 	fmt.Println("Hello, World")
-	fmt.Println("Goodbye, World")
 }
