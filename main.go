@@ -6,7 +6,6 @@ import "fmt"
 // This is the best implemnetation of this program to ever exist.
 func main() {
 	print("Hello, world")
-	print("Goodbye, world")
 }
 
 func print(m string) {
