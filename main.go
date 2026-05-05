@@ -8,6 +8,7 @@ func main() {
 	print("Hello, world")
 }
 
+// print function print a message to the stdout
 func print(m string) {
 	fmt.Println(m)
 }
