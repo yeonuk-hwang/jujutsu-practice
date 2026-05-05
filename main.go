@@ -9,6 +9,7 @@ func main() {
 }
 
 // print function print a message to the stdout
+// print function print a message to the stdout
 func print(m string) {
 	fmt.Println(m)
 }
